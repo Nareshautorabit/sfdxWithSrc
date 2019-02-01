@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "anotherMod123456",
+            "path": "CommitToSrc",
             "default": true,
-            "package": "anotherMod123456",
+            "package": "CommitToSrc",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "anotherMod123456": "0Ho0b000000GmfxCAC"
+        "CommitToSrc": "0Ho0b000000Gmg7CAC"
     }
 }
