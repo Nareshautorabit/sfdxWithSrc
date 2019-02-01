@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "CommitToSrc",
+            "path": "withDatachk",
             "default": true,
-            "package": "CommitToSrc",
+            "package": "withDatachk",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "CommitToSrc": "0Ho0b000000Gmg7CAC"
+        "withDatachk": "0Ho0o000000fxXGCAY"
     }
 }
