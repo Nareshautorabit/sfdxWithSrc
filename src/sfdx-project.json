@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "accountData",
+            "path": "ArAndArvchk",
             "default": true,
-            "package": "accountData",
+            "package": "ArAndArvchk",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "accountData": "0Ho0b000000GmgHCAS"
+        "ArAndArvchk": "0Ho6F000000fxYnSAI"
     }
 }
