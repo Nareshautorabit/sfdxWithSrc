@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "withDatachk",
+            "path": "accountData",
             "default": true,
-            "package": "withDatachk",
+            "package": "accountData",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "withDatachk": "0Ho0o000000fxXGCAY"
+        "accountData": "0Ho0b000000GmgHCAS"
     }
 }
